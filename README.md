@@ -1,4 +1,4 @@
-# LRUImplementation
+# LRU Cache Implementation
 
 I am Fascinated by Caches and How Much they Value they add to Entrprise Application.
 
